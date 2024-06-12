@@ -1,0 +1,14 @@
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/bin/Debug/net8.0/EsempioQuadrato
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/bin/Debug/net8.0/EsempioQuadrato.deps.json
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/bin/Debug/net8.0/EsempioQuadrato.runtimeconfig.json
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/bin/Debug/net8.0/EsempioQuadrato.dll
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/bin/Debug/net8.0/EsempioQuadrato.pdb
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.AssemblyInfoInputs.cache
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.AssemblyInfo.cs
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.csproj.CoreCompileInputs.cache
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.dll
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/refint/EsempioQuadrato.dll
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.pdb
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/EsempioQuadrato.genruntimeconfig.cache
+/Users/filippobersan/code/esercitazioni/prova-c#/EsempioQuadrato/obj/Debug/net8.0/ref/EsempioQuadrato.dll
